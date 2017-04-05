@@ -1,0 +1,5 @@
+name: AutoMessagesLVLUP
+version: 0.0.1
+main: pl.mcdev.automessages.Main
+description: Plugin na auto-wiadomosci forum.lvlup.pro <-
+commands:
