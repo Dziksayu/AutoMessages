@@ -29,4 +29,4 @@ public class Main extends JavaPlugin{
 	public void reloadConfig(){
 		config.reloadConfiguration();
 	}
-}//Jestem Klaudia od dzis ja tu koduje Pawel spi i jest rudy
+}
